@@ -25,9 +25,13 @@ public class Speaker : MonoBehaviour {
             {
                 Speak("Why not take a look at our training.");
                 speachCreat = true;
+<<<<<<< HEAD
+                Speak("Yes, it's good idea.");
+=======
                 Speak("Yes.");
                 Speak("it's good idea.");
 
+>>>>>>> CreateNewSpeakeModule
             }
         }
 	}
