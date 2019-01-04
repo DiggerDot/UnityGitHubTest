@@ -8,9 +8,9 @@ public class NewScript : MonoBehaviour {
 	void Start () {
         Debug.Log("Test by name conflict");
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
-		
+
 	}
 }
